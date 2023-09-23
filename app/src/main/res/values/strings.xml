@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bKash Balance Animation</string>
+
+
+    <string name="tap_for_balnace">Tap for Balance</string>
+    <string name="balnace_amount">55,546 BDT</string>
+
+
+</resources>
